@@ -1,5 +1,4 @@
 ## Hi there, I'm Alex 👋
----
 
 ❤️ I'm passionate about:
 
