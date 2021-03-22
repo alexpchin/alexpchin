@@ -1,4 +1,5 @@
-### Hi there, I'm Alex 👋
+## Hi there, I'm Alex 👋
+---
 
 ❤️ I'm passionate about:
 
@@ -7,16 +8,19 @@
 - Expo
 - Express
 
+
 💻 Programming languages:
 
 - Javascript / Typescript
 - Ruby
 - Python
 
-🚀 Some of my open projects:
+
+🚀 Some of my projects:
 
 - [IYNK - Find your next Tattoo](http://iynk.com/)
 - [Pad - Connecting tenants & landlords](https://pad.co.uk)
+
 
 :octocat: My GH stats
 
